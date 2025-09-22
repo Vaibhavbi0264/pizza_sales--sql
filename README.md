@@ -1,0 +1,1 @@
+Pizza Sales SQL Project – A relational database project that manages and analyzes pizza sales data. Includes tables for customers, orders, products, and order details, with SQL queries to track sales, customer orders, and popular products.
